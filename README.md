@@ -1,5 +1,5 @@
 # Indian-Language-Dataset
-Clean parallel corpus for five low resourced Indian Languages
+Cleaned and Preprocessed parallel corpus for five less resourced Indian Languages
 
 ID & Language &  Train  & Test & Dev    
 
