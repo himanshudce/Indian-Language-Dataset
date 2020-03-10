@@ -1,7 +1,7 @@
 # Indian-Language-Dataset
 Cleaned and Preprocessed parallel corpus for five less resourced Indian Languages
 
-ID & Language &  Train  & Test & Dev    
+ID  Language   Train    Test   Dev    
 
 1  & Tamil      & 183451  & 2000 & 1000    
 
